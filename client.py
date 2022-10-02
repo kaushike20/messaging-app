@@ -1,7 +1,11 @@
 import socket
 import sys
 import time
+#<<<<<<< patch-2
 #time libarary used to operate standard time.
+#=======
+#can be used turtle libaray in future.
+#>>>>>>> main
 s = socket.socket()
 host = input(str("Please enter the hostname of the server : "))
 port = 8080
