@@ -1,3 +1,4 @@
 # messaging-app
 
-a socket progrAMMING SORTware made on python for local host chatig connect to server for using widely its command base.
+a socket programming SOftware made on python for local host chatting connect to server for using widely its command base.
+
